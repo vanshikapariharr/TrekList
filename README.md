@@ -50,3 +50,8 @@ Built with React and Vite, TrekList combines the React Context API for shared UI
 git clone https://github.com/vanshikapariharr/TrekList.git
 cd TrekList
 npm install
+
+```
+AUTHOR
+VANSHIKA PARIHAR
+
